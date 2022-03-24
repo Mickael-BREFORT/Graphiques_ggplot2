@@ -4,15 +4,17 @@
 # II - geom_bar => diagramme en barres, barres empilées ####
 #--------------------------------------------------------- #
 
+install.packages("viridis")
+
 library(tidyverse)
 library(ggthemes)
 library(viridis)
 
-
+getwd()
 # Illustration 2 : IA Auvergne Rhône-Alpes N°70, novembre 2018
 
 # Chargement des données de l'exemple
-Donnees_ex2 <- readRDS("./Donnees_exemples/Donnees_ex2.RDS")
+Donnees_ex2 <- readRDS("./Graphiques_R/Donnees_exemples/Donnees_ex2.RDS")
 
 # Préalable : transformation des données
 # IMPORTANT : Travailler au maximum sur des données en format "long" et non pas "wide"

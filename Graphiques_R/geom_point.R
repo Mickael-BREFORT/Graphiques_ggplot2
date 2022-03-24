@@ -17,7 +17,7 @@ library(viridis)   # Couleurs
 # Illustration 1 : Insee Première N°1752, avril 2018
 
 # Chargement des données de l'exemple
-Donnees_ex1 <- readRDS("./Donnees_exemples/Donnees_ex1.RDS")
+Donnees_ex1 <- readRDS("./Graphiques_R/Donnees_exemples/Donnees_ex1.RDS")
 
 
 # Construction du graphique
