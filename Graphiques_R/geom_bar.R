@@ -1,4 +1,4 @@
-# Test #
+# Test : midification de code avant envoi sur github #
 
 #----------------------------------------------------------#
 # II - geom_bar => diagramme en barres, barres empilées ####
