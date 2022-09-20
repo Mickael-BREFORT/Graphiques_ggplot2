@@ -1,5 +1,9 @@
 # Test : midification de code avant envoi sur github #
 
+install.packages("usethis")
+usethis::use_git()
+
+
 #----------------------------------------------------------#
 # II - geom_bar => diagramme en barres, barres empilées ####
 #--------------------------------------------------------- #
