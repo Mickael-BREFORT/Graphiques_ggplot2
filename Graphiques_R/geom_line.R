@@ -1,5 +1,6 @@
 
 # Nouvelle modif depuis mon chromebook !!!   
+# bon, finalement, ça marche plutôt bien !!
 
 #--------------------------------------#
 # III - geom_line => Courbe            #
