@@ -1,6 +1,7 @@
 
-# Nouvelle modif depuis mon chromebook !!!   
-# bon, finalement, ça marche plutôt bien !!
+# Formation à GIT - Test sur le sspcloud
+
+
 
 #--------------------------------------#
 # III - geom_line => Courbe            #
