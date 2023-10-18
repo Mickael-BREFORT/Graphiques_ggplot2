@@ -1,6 +1,7 @@
 # Test : midification de code avant envoi sur github #
 #Test du 18 octobre 2023
 test2
+dernier test après c'est tout 
 
 install.packages("usethis")
 usethis::use_git()
