@@ -3,6 +3,8 @@
 test2
 dernier test après c'est tout 
 
+# test qui fonctionne avec github !!
+
 install.packages("usethis")
 usethis::use_git()
 
