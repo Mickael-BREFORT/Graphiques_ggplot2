@@ -8,6 +8,8 @@ dernier test après c'est tout
 install.packages("usethis")
 usethis::use_git()
 
+# test test test 
+
 
 #----------------------------------------------------------#
 # II - geom_bar => diagramme en barres, barres empilées ####
