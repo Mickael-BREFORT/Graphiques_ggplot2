@@ -1,15 +1,3 @@
-# Test : midification de code avant envoi sur github #
-#Test du 18 octobre 2023
-test2
-dernier test après c'est tout 
-
-# test qui fonctionne avec github !!
-
-install.packages("usethis")
-usethis::use_git()
-
-# test test test 
-
 
 #----------------------------------------------------------#
 # II - geom_bar => diagramme en barres, barres empilées ####
@@ -136,7 +124,7 @@ ggplot(data = Donnees_ex2 %>%
 
 
 # Chargement des données de l'exemple
-Donnees_ex2b <- readRDS("./Donnees_exemples/Donnees_ex2_Pyr_Age.RDS")
+Donnees_ex2b <- readRDS("./Graphiques_R/Donnees_exemples/Donnees_ex2_Pyr_Age.RDS")
 
 # Préalable : transformation des données
 # => on donne une valeur négative aux hommes
